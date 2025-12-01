@@ -2,8 +2,8 @@
 <h1 align="center">🚀 Vishal Patel</h1>
 
 <p align="center">
-  🎓 <strong>AI/ML Student, Cybersecurity Enthusiast</strong> • 💻 <strong>2+ Years as a Software Developer</strong> •<br>
-  From building scalable apps to defending them — I love both sides of tech!
+  <strong>AI/ML Engineer • Data Scientist • Cybersecurity Enthusiast • Software Developer</strong><br>
+  Turning data into intelligence and intelligence into secure, scalable systems.
 </p>
 
 ---
@@ -12,41 +12,50 @@
 </p>
 
 ### 🧑‍💻 About Me
-- 🎓 Post-Graduate Student in **AI/ML arhcitecure** at *Georgian College*
-- 🎓 Completed Post-Graduation in **Cybersecurity** at *Georgian College*
-- 💼 **Software Developer** with strong backend & cloud experience
-- 🔐 Focused on **Cloud Security**, **SIEM**, **Incident Response**, and **Secure DevOps**
-- 🧪 Hands-on with **penetration testing**, **log analysis**, and **vulnerability scanning**
-- 🌱 Currently exploring: **Neural networks, large language models, and AI-driven data synthesis**
-- 📫 Always open to new opportunities — *Let's connect!*
+
+- 🎓 Post-Graduate Student in **AI/ML Development & Infrastructure** at *Georgian College*  
+- 🎓 Completed Post-Graduation in **Cybersecurity** at *Georgian College*  
+- 🤖 Aspiring **AI/ML Engineer** with a strong interest in **data modeling**, **model training**, **LLMs**, and **neural networks**  
+- 📊 Data-scientist leaning: **feature engineering**, **analytics**, **model evaluation**, and **insights generation**  
+- 💼 2+ years as a **Software Developer**, specializing in backend, cloud, and distributed systems  
+- 🔐 Security-aware engineer with experience in **log analysis**, **SIEM**, **threat detection**, and **secure architectures**  
+- ☁️ Built real-time pipelines integrating **DynamoDB Streams → Elastic Cloud**, visualized with **Kibana dashboards**  
+- 🌱 Currently learning: **LLM architecture**, **AI-driven automation**, **model optimization**, and **cloud-scale ML**  
+- 🚀 Open to **AI/ML Engineer**, **Data Scientist (Junior)**, **Cloud/Software Developer**, or **Cybersecurity** roles  
+- 📫 Let’s collaborate and innovate!
 
 ---
 
 ### 🛠️ Technical Skills
 
+#### 🤖 AI, ML & Data
+`TensorFlow` · `Scikit-Learn` · `NumPy` · `Pandas` · `Matplotlib`  
+`Neural Networks` · `Model Training & Evaluation` · `Data Modeling`  
+`Feature Engineering` · `LLMs` · `AI System Architecture` · `Power BI`
+
 #### 👨‍💻 Programming & Scripting  
 `Python` · `C/C++` · `JavaScript` · `Node.js` · `Java` · `Bash` · `SQL` · `HTML5`
 
-#### 🧑‍🔧 Development & Web  
-`React.js` · `Express.js` · `RESTful APIs` · `WAMP/XAMPP` · `Heroku` · `Postman`
+#### ☁️ Cloud & DevOps  
+`AWS (EC2, S3, IAM, SQS, Lambda)` · `Azure` · `Serverless Framework`  
+`Git` · `GitHub` · `Docker`
 
 #### 🗃️ Databases  
 `MySQL` · `PostgreSQL` · `MongoDB` · `DynamoDB` · `Elasticsearch` · `Firebase`
 
-#### ☁️ Cloud & DevOps  
-`AWS (EC2, IAM, S3, SQS, Lambda)` · `Azure` · `Serverless Framework` · `Git` · `GitHub` · `Docker`
+#### 🧑‍🏭 Development & Web  
+`React.js` · `Express.js` · `REST APIs` · `Postman` · `Heroku`
 
 #### 🛡️ Cybersecurity & Networking  
-`Kali Linux` · `UNIX` · `Windows Server 2022` · `Networking Protocols`
+`Kali Linux` · `Active Directory` · `Windows Server 2022` · `Ubuntu/UNIX`  
+`Routing` · `Networking Protocols (TCP/IP, DNS, DHCP)` · `pfSense`
 
-#### 🧪 Security Tools  
-`Wireshark` · `Nmap` · `Burp Suite (Basic)` · `Metasploit` · `Palo Alto Firewall` · `Cisco Packet Tracer` · `Active Directory`
+#### 🔐 Security Tools  
+`Wireshark` · `Nmap` · `Burp Suite (Basic)` · `Metasploit`  
+`Palo Alto Firewall` · `Cisco Packet Tracer`
 
 #### 📊 Monitoring & Logging  
-`Kibana` · `LogAnalyzer` · `Elasticsearch Cloud` · `pfSense`
-
-#### 🤖 AI, ML & Data  
-`Power BI` · `AI System Architecture` · `Data Modeling` · `Model Training (Math)` · `Scikit-learn`
+`Kibana` · `Elastic Cloud` · `LogAnalyzer`
 
 #### 🖥️ Platforms & Tools  
 `VS Code` · `MS Office 365`
