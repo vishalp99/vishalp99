@@ -16,7 +16,7 @@ Backend engineer working across APIs, distributed systems, and AI-driven applica
 
 ### What I Focus On 🧠
 
-- Understanding how systems behave in production — performance, failures, and edge cases  
+- Understanding how systems behave in production - performance, failures, and edge cases  
 - Breaking down problems beyond just implementation  
 - Writing code that is simple, maintainable, and scalable  
 - Thinking through system design before building
@@ -25,10 +25,10 @@ Backend engineer working across APIs, distributed systems, and AI-driven applica
 
 ### Current Interests 🚀
 
-- LLMs — retrieval, embeddings, and multi-step workflows  
-- System design — scalability, reliability, and distributed systems  
+- LLMs - retrieval, embeddings, and multi-step workflows  
+- System design - scalability, reliability, and distributed systems  
 - Backend architecture and performance optimization  
-- Security fundamentals — access control, safe deployments, and system-level practices  
+- Security fundamentals - access control, safe deployments, and system-level practices  
 
 ---
 
