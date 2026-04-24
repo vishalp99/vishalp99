@@ -57,7 +57,7 @@ Portfolio: [https://vishalp99.github.io/vishalpatel/](https://vishalp99.github.i
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalp99&show_icons=true&theme=github_dark" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vishalp99&show_icons=true&theme=github_dark" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalp99&theme=dark" />
 </p>
  
