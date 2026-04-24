@@ -32,6 +32,23 @@ Backend engineer working across APIs, distributed systems, and AI-driven applica
 
 ---
 
+### 🚀 Featured Project
+
+**Schemr – AI System Design Workspace**  
+An AI-powered platform that transforms ideas into structured, buildable system designs.
+
+- Generates architecture (frontend, backend, database, AI layer) from ideas  
+- Produces tech stack suggestions, development roadmaps, risks, and tradeoffs  
+- Interactive workspace with tree + graph views for system exploration  
+- Supports iterative refinement with version history  
+- Export as PDF (product brief) or Markdown build prompts for downstream tools  
+- Multi-provider AI integration (OpenAI, Anthropic) with user-controlled API usage  
+- Deployed on Vercel (frontend), Railway (backend), Neon (PostgreSQL)
+
+🔗 Live: https://schemr-gray.vercel.app/
+
+---
+
 ### Connect 🌐
 
 LinkedIn: [https://www.linkedin.com/in/vishal-patel99/](https://www.linkedin.com/in/vishal-patel99/)  
