@@ -52,7 +52,7 @@ An AI-powered platform that transforms ideas into structured, buildable system d
 ### Connect 🌐
 
 LinkedIn: [https://www.linkedin.com/in/vishal-patel99/](https://www.linkedin.com/in/vishal-patel99/)  
-Portfolio: [https://vishalp99.github.io/vishalpatel/](https://vishalp99.github.io/vishalpatel/)
+<!--Portfolio: [https://vishalp99.github.io/vishalpatel/](https://vishalp99.github.io/vishalpatel/) -->
 
 ---
 
